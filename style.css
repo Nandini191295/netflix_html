@@ -1,0 +1,29 @@
+figure img{
+    height: 36px;
+    width: 36px;
+}
+*{
+     font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: beige;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: #FFD700;
+    text-align: center;
+}
+h2{
+    color: #E69500;
+}
+a{
+    text-decoration: none;
+}
+div img{
+    border-radius: 12px;
+}
+div{
+    background-color:#2B2C2F;
+}
